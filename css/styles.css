@@ -1,0 +1,32 @@
+body {
+  max-width: 1200px;
+}
+
+.kind {
+  text-align: center;
+}
+
+.intro {
+  font-style: italic;
+}
+
+.smart {
+  border: solid grey 3px;
+  background-color: grey;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.work {
+  border: solid lightgrey 3px;
+  background-color: lightgrey;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.important {
+  border: solid grey 3px;
+  background-color: grey;
+  padding: 10px;
+  border-radius: 8px;
+}
